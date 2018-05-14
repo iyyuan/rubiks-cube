@@ -1,0 +1,16 @@
+How to play:
+
+The Rubik’s Cube is a 3-D cube with 6 different
+colored sides.
+
+The interface consists of a 3 x 3 grid of red, 
+blue, white, orange, green, or yellow squares.
+
+The object of the game is to rearrange the 
+colored squares until each side of the cube is
+only 1 color. 
+
+Players can move the puzzle by shifting any 
+side of the Rubik's Cube up, down, left, right,
+clockwise, or counterclockwise in order to 
+solve the puzzle.
